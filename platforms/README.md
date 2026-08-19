@@ -1,3 +1,3 @@
-# platforms
+# Platforms overview
 
-Platform-specific examples and recipes for Snowflake, Fabric, and Databricks.
+Examples and notes for platform-specific implementations (Snowflake, Fabric, Databricks). Each platform folder contains short recipes and example code.
